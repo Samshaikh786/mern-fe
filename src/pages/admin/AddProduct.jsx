@@ -40,6 +40,7 @@ const AddProduct = ({ setValue }) => {
   }, []);
   console.log(categoryOptions);
 
+  // changes by Sameena
   return (
     <div className="productsContainer">
       <div className="formContainer">
